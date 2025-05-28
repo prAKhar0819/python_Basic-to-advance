@@ -1,0 +1,11 @@
+######## Day-2 ---Jarvis #########
+pyttsx3
+SpeechRecognition
+wikipedia
+pyaudio
+######## Day-2 face recognition #########
+opencv-python
+
+######## Day-3 #########
+
+pandas
