@@ -54,3 +54,4 @@ print(str1.swapcase())
 
 str1 = "His name is Dan. Dan is an honest man."
 print(str1.title())
+
